@@ -1,0 +1,11 @@
+.DS_Store
+Pods
+*.xcworkspace
+Pods
+build
+xcuserdata
+*.xcuserstate
+UserInterfaceState.xcuserstate
+UserInterface.xcuserstate
+Breakpoints_v2.xcbkptlist
+Export
